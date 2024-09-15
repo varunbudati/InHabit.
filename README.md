@@ -1,4 +1,7 @@
 Virginia Tech Hackathon 2024
+![Control-V](https://github.com/user-attachments/assets/63b71fd2-863a-42d2-8303-0fdc9bf814a8)
+![Control-V (1)](https://github.com/user-attachments/assets/9060b754-de3c-456a-9e56-caae15438dec)
+![Control-V (2)](https://github.com/user-attachments/assets/0513e2eb-0588-47a6-acde-5ad2b0395c38)
 
 Navigate Your Next Neighborhood with INHABIT! —it's our promise to revolutionize how you find your ideal place to live. 
 
